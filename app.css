@@ -136,3 +136,31 @@
     height: 250px;
     margin-bottom: 15px;
   }
+
+
+    @media screen  and (max-width: 480px){
+      .quizpic{
+        width: 300px;
+        height: 250px;
+        margin-bottom: 9px;
+      }
+      .quiz{
+        width: 250px;
+        margin-bottom: 15px;
+      }
+    
+    }
+    
+    
+      @media screen  and (min-width: 481px) and (max-width:767px){
+        .quizpic{
+          width: 500px;
+          height: 250px;
+          margin-bottom: 9px;
+        }
+      
+     
+    }
+    
+    
+    
