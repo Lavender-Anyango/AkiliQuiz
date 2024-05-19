@@ -40,7 +40,7 @@
     font-weight: 500;
   }
   
-  /* UTILITIES */
+  /* CONTAINERS */
   
   .container {
     width: 100vw;
@@ -124,4 +124,15 @@
   
   input::placeholder {
     color: #aaa;
+  }
+
+  .quiz{
+    width: 250px;
+    margin-bottom: 15px;
+  }
+
+  .quizpic{
+    width: 750px;
+    height: 250px;
+    margin-bottom: 15px;
   }

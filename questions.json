@@ -1,35 +1,84 @@
 [
+    
     {
-      "question": "Inside which HTML element do we put the JavaScript??",
-      "choice1": "<script>",
-      "choice2": "<javascript>",
-      "choice3": "<js>",
-      "choice4": "<scripting>",
-      "answer": 1
+      "question": "Who is the president of Uganda ?",
+      "choice1": "Yoweri Kaguta Museveni",
+      "choice2": "Mwai Kibaki",
+      "choice3": "Byesije Kyajulanyi",
+      "choice4": "Allan Ssewanyana",
+      "answer": "1"
     },
     {
-      "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-      "choice1": "<script href='xxx.js'>",
-      "choice2": "<script name='xxx.js'>",
-      "choice3": "<script src='xxx.js'>",
-      "choice4": "<script file='xxx.js'>",
-      "answer": 3
+      "question": "What is the sorce of river Nile ?",
+      "choice1": "Lake Turkana",
+      "choice2": "Lake Kyoga",
+      "choice3": "Lake Victoria",
+      "choice4": "Lake Albert",
+      "answer": "3"
+    },
+  
+    {
+      "question": "What is DOM in full",
+      "choice1": " Document Object Manipulation",
+      "choice2": "Document Obstruction Model",
+      "choice3": "Document Object Model",
+      "choice4": "Document Obstruction Maker",
+      "answer": "3"
     },
     {
-      "question": " How do you write 'Hello World' in an alert box?",
-      "choice1": "msgBox('Hello World');",
-      "choice2": "alertBox('Hello World');",
-      "choice3": "msg('Hello World');",
-      "choice4": "alert('Hello World');",
-      "answer": 4
+      "question": "what is the smallest unit of a database?",
+      "choice1": "columns",
+      "choice2": " Tables",
+      "choice3": "Rows",
+      "choice4": "None",
+      "answer": "2"
     },
     {
-      "question": " What's my name?",
-      "choice1": "msgBox('Hello World');",
-      "choice2": "alertBox('Hello World');",
-      "choice3": "msg('Hello World');",
-      "choice4": "alert('Hello World');",
-      "answer": 4
+      "question": "Which of the following is not a planet?",
+      "choice1": "Pluto",
+      "choice2": "Mars",
+      "choice3": "sultan",
+      "choice4": "Jupiter",
+      "answer": "3"
+    },
+    {
+      "question": "Which of the following is not a method of research?",
+      "choice1": "surveys",
+      "choice2": " foccus group discussions",
+      "choice3": "Questions",
+      "choice4": "None of the above",
+      "answer": "1"
+    },{
+      "question": "Which of the folowing is not a principal in design? ",
+      "choice1": "Movenment",
+      "choice2": "Color ",
+      "choice3": "Pattern",
+      "choice4": "Rythm",
+      "answer": "2"
+    },{
+      "question": "Which of the following is the smallest unit of life? ",
+      "choice1": "Tissues",
+      "choice2": " systems",
+      "choice3": " Organs",
+      "choice4": "Cells",
+      "answer": "4"
+    },
+    {
+      "question": "Who of the following is the author of the 48 Laws of power?",
+      "choice1": "Sun Tzi",
+      "choice2": " Dan Brown",
+      "choice3": " Sidney Sheldon",
+      "choice4": "Robert Green",
+      "answer": "4"
+    },
+    {
+      "question": "Which of the following is not a tool used by a UI designer",
+      "choice1": "Photoshop",
+      "choice2": " Adobe Illustrator",
+      "choice3": " Capcut",
+      "choice4": "Figma",
+      "answer": "3"
     }
+
   ]
   
