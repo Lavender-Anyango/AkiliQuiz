@@ -9,7 +9,7 @@
       "answer": "1"
     },
     {
-      "question": "What is the sorce of river Nile ?",
+      "question": "What is the source of river Nile?",
       "choice1": "Lake Turkana",
       "choice2": "Lake Kyoga",
       "choice3": "Lake Victoria",
@@ -30,7 +30,7 @@
       "choice1": "columns",
       "choice2": " Tables",
       "choice3": "Rows",
-      "choice4": "None",
+      "choice4": "dot",
       "answer": "2"
     },
     {
@@ -44,13 +44,13 @@
     {
       "question": "Which of the following is not a method of research?",
       "choice1": "surveys",
-      "choice2": " foccus group discussions",
+      "choice2": " focus group discussions",
       "choice3": "Questions",
       "choice4": "None of the above",
       "answer": "1"
     },{
-      "question": "Which of the folowing is not a principal in design? ",
-      "choice1": "Movenment",
+      "question": "Which of the following is not a principal in design? ",
+      "choice1": "Movement",
       "choice2": "Color ",
       "choice3": "Pattern",
       "choice4": "Rythm",
