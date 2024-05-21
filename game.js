@@ -25,11 +25,10 @@ fetch('questions.json')
 
 //CONSTANTS
 const CORRECT_BONUS = 10;
-<<<<<<< HEAD
+
 const MAX_QUESTIONS = 5;
-=======
+
 const MAX_QUESTIONS = 10;
->>>>>>> origin/JS_Quiz
 
 startGame = () => {
     questionCounter = 0;
