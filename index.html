@@ -10,9 +10,24 @@
   <body>
     <div class="container">
       <div id="home" class="flex-center flex-column">
-       
         <h1>Akili Quiz</h1>
-        <!-- <img src="images/match.png"  class="quiz"> -->
+        <p class="intro">Choose a category. See how many correct answers you can get out of 10 questions!</p>
+        <br>
+        <br>
+        <div class="one category">
+          <h4>CATEGORIES</h4>
+          <a id="js" class="category-btn" data-category="JavaScript">JS</a>
+          <a id="general" class="category-btn" data-category="General Knowledge">General Knowledge</a>
+          <a id="python" class="category-btn" data-category="Python">Python</a>
+          <a id="flower" class="category-btn" data-category="Flowers">Flowers</a>
+        </div>
+        
+      
+        <div id="selected-category-placeholder" class="selected-category-placeholder"></div>
+        
+        <br>
+        <br>
+        <br>
         <a class="btn" href="/game.html">Play</a>
         <a class="btn" href="/highscores.html">High Scores</a>
       </div>

@@ -6,7 +6,8 @@
       "choice2": "Mwai Kibaki",
       "choice3": "Byesije Kyajulanyi",
       "choice4": "Allan Ssewanyana",
-      "answer": "1"
+      "answer": "1",
+      "category": "Python"
     },
     {
       "question": "What is the source of river Nile?",
@@ -14,7 +15,8 @@
       "choice2": "Lake Kyoga",
       "choice3": "Lake Victoria",
       "choice4": "Lake Albert",
-      "answer": "3"
+      "answer": "3",
+      "category": "Python"
     },
   
     {
@@ -23,7 +25,8 @@
       "choice2": "Document Obstruction Model",
       "choice3": "Document Object Model",
       "choice4": "Document Obstruction Maker",
-      "answer": "3"
+      "answer": "3",
+      "category": "Python"
     },
     {
       "question": "what is the smallest unit of a database?",
@@ -31,7 +34,8 @@
       "choice2": " Tables",
       "choice3": "Rows",
       "choice4": "dot",
-      "answer": "2"
+      "answer": "2",
+      "category": "flowers"
     },
     {
       "question": "Which of the following is not a planet?",
@@ -39,7 +43,8 @@
       "choice2": "Mars",
       "choice3": "sultan",
       "choice4": "Jupiter",
-      "answer": "3"
+      "answer": "3",
+      "category": "flowers"
     },
     {
       "question": "Which of the following is not a method of research?",
@@ -47,21 +52,24 @@
       "choice2": " focus group discussions",
       "choice3": "Questions",
       "choice4": "None of the above",
-      "answer": "1"
+      "answer": "1",
+      "category": "flowers"
+
     },{
       "question": "Which of the following is not a principal in design? ",
       "choice1": "Movement",
       "choice2": "Color ",
       "choice3": "Pattern",
       "choice4": "Rythm",
-      "answer": "2"
+      "category": "flowers"
     },{
       "question": "Which of the following is the smallest unit of life? ",
       "choice1": "Tissues",
       "choice2": " systems",
       "choice3": " Organs",
       "choice4": "Cells",
-      "answer": "4"
+      "answer": "4",
+      "category": "flowers"
     },
     {
       "question": "Who of the following is the author of the 48 Laws of power?",
@@ -69,7 +77,8 @@
       "choice2": " Dan Brown",
       "choice3": " Sidney Sheldon",
       "choice4": "Robert Green",
-      "answer": "4"
+      "answer": "4",
+      "category": "flowers"
     },
     {
       "question": "Which of the following is not a tool used by a UI designer",
@@ -77,7 +86,8 @@
       "choice2": " Adobe Illustrator",
       "choice3": " Capcut",
       "choice4": "Figma",
-      "answer": "3"
+      "answer": "3",
+      "category": "flowers"
     }
 
   ]

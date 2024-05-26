@@ -61,3 +61,7 @@
     background-color: #56a5eb;
     width: 0%;
   }
+  /* app.css or game.css */
+.selected-category-btn {
+  background-color: green!important; /* Override any existing background color */
+}
