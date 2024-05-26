@@ -10,11 +10,11 @@ let questionCounter = 0;
 let availableQuestions = [];
 
 let questions = [];
-const MAX_QUESTIONS = 5;
+const MAX_QUESTIONS = 6;
 const CORRECT_BONUS = 10;
 
       
-fetch('questions.json')
+fetch('flowers.json')
  .then((res) => {
         return res.json();
     })
@@ -35,8 +35,9 @@ function startGame() {
     getNewQuestion();
 }
 
-function getNewQuestion() {
+function getNewQuestion() {    
     
+
     if (availableQuestions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
         return window.location.assign('/end.html');

@@ -1,0 +1,51 @@
+[
+    {
+            "question": "Which of theses flowers represent friendship?",
+            "choice1":"cherry blossoms",
+            "choice2": "Yellow Rose",
+            "choice3": "Hibiscus ",
+            "choice4": "Orchid",
+            "answer": " 2"
+    },
+      {
+        "question": "What flower symbolises peace?",
+        "choice1":"Oleander",
+        "choice2": "Lotus",
+        "choice3": " Daisy",
+        "choice4": "Fennel",
+        "answer": " 2"
+       },
+       {
+        "question": " What do violets symbolise",
+        "choice1":"Mournning",
+        "choice2": "jealosy",
+        "choice3": "faithfulness ",
+        "choice4": "purity",
+        "answer": "3 "
+       },
+       {
+        "question": "What do red tulips signify?",
+        "choice1":"Lovely smile",
+        "choice2": "Declaration of love",
+        "choice3": " Beautiful eyes",
+        "choice4": "Death",
+        "answer": "2 "
+       },
+       {
+        "question": "Which of these flowers symbolise Beauty?",
+        "choice1":"Daisy",
+        "choice2": "Iris",
+        "choice3": "Gardenia ",
+        "choice4": "Ivy",
+        "answer": "1 "
+       },
+       {
+        "question": "Which of these flowers smybolise sympathy",
+        "choice1":"Red roses",
+        "choice2": "sweet pea",
+        "choice3": " Chrysanthemum",
+        "choice4": "Sunflower",
+        "answer": " 3"
+       }
+       
+]

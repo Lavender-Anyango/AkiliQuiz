@@ -1,94 +1,52 @@
 [
-    
     {
-      "question": "Who is the president of Uganda ?",
-      "choice1": "Yoweri Kaguta Museveni",
-      "choice2": "Mwai Kibaki",
-      "choice3": "Byesije Kyajulanyi",
-      "choice4": "Allan Ssewanyana",
-      "answer": "1",
-      "category": "Python"
+     "question": "Who founded python?",
+     "choice1":"leonardo Da Vinic",
+     "choice2": "Albert Einstien",
+     "choice3": " Guido Van Rossum",
+     "choice4": "Vincent Vab Gogh",
+     "answer": " 4"
     },
     {
-      "question": "What is the source of river Nile?",
-      "choice1": "Lake Turkana",
-      "choice2": "Lake Kyoga",
-      "choice3": "Lake Victoria",
-      "choice4": "Lake Albert",
-      "answer": "3",
-      "category": "Python"
-    },
-  
-    {
-      "question": "What is DOM in full",
-      "choice1": " Document Object Manipulation",
-      "choice2": "Document Obstruction Model",
-      "choice3": "Document Object Model",
-      "choice4": "Document Obstruction Maker",
-      "answer": "3",
-      "category": "Python"
-    },
-    {
-      "question": "what is the smallest unit of a database?",
-      "choice1": "columns",
-      "choice2": " Tables",
-      "choice3": "Rows",
-      "choice4": "dot",
-      "answer": "2",
-      "category": "flowers"
-    },
-    {
-      "question": "Which of the following is not a planet?",
-      "choice1": "Pluto",
-      "choice2": "Mars",
-      "choice3": "sultan",
-      "choice4": "Jupiter",
-      "answer": "3",
-      "category": "flowers"
-    },
-    {
-      "question": "Which of the following is not a method of research?",
-      "choice1": "surveys",
-      "choice2": " focus group discussions",
-      "choice3": "Questions",
-      "choice4": "None of the above",
-      "answer": "1",
-      "category": "flowers"
-
-    },{
-      "question": "Which of the following is not a principal in design? ",
-      "choice1": "Movement",
-      "choice2": "Color ",
-      "choice3": "Pattern",
-      "choice4": "Rythm",
-      "category": "flowers"
-    },{
-      "question": "Which of the following is the smallest unit of life? ",
-      "choice1": "Tissues",
-      "choice2": " systems",
-      "choice3": " Organs",
-      "choice4": "Cells",
-      "answer": "4",
-      "category": "flowers"
-    },
-    {
-      "question": "Who of the following is the author of the 48 Laws of power?",
-      "choice1": "Sun Tzi",
-      "choice2": " Dan Brown",
-      "choice3": " Sidney Sheldon",
-      "choice4": "Robert Green",
-      "answer": "4",
-      "category": "flowers"
-    },
-    {
-      "question": "Which of the following is not a tool used by a UI designer",
-      "choice1": "Photoshop",
-      "choice2": " Adobe Illustrator",
-      "choice3": " Capcut",
-      "choice4": "Figma",
-      "answer": "3",
-      "category": "flowers"
-    }
+      "question": "What dos the name pyhton signify?",
+      "choice1":"A snake",
+      "choice2": "Difficult to use",
+      "choice3": "Named after a comedy groupMonty python ",
+      "choice4": "The python snake",
+      "answer": "3 "
+     },
+     {
+      "question": "What does PIP in python stand for?",
+      "choice1":"unlimited length",
+      "choice2": "Python INtegrated Program",
+      "choice3": " Get a file from somewhere",
+      "choice4": "Prefered Installer Program",
+      "answer": " 4"
+     },
+     {
+      "question": "What is the anme given to people whoare great admirers of python?",
+      "choice1":"Pythoniasts",
+      "choice2": "Monty python",
+      "choice3": " Pythonic",
+      "choice4": "Python enthausiats",
+      "answer": "1 "
+     },
+     {
+      "question": "What is the type of programming language suported by python?",
+      "choice1":"Structured programming language",
+      "choice2": "Objected oriented language",
+      "choice3": " Functional programming",
+      "choice4": "All the above",
+      "answer": "4"
+     },
+     {
+      "question": "When was python released?",
+      "choice1":"16 October 2001",
+      "choice2": "16 October 2000",
+      "choice3": "17th October 2008 ",
+      "choice4": "3 DEcember 2009",
+      "answer": "2 "
+     }
 
   ]
   

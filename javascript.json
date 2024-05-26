@@ -1,0 +1,53 @@
+[
+    
+      {
+        "question": "What is DOM in full",
+        "choice1": " Document Object Manipulation",
+        "choice2": "Document Obstruction Model",
+        "choice3": "Document Object Model",
+        "choice4": "Document Obstruction Maker",
+        "answer": "3",
+        "category": "Python"
+      },
+      {
+        "question": "Javascript is a programming language of the?",
+        "choice1":"Desktop",
+        "choice2": "Web",
+        "choice3": "Server ",
+        "choice4": "Mobile",
+        "answer": " 2"
+       },
+       {
+        "question": "Which symbol is used to seperate javascript Statements?",
+        "choice1":"colon",
+        "choice2": "Comma",
+        "choice3": "Semicolon ",
+        "choice4": "Hyphen",
+        "answer": " 3"
+       },
+       {
+        "question": "Which javascript method is used to write on the brower's console?",
+        "choice1":"Console.write()",
+        "choice2": "Console.log()",
+        "choice3": "console.output()",
+        "choice4": "Console.wrieHTML()",
+        "answer": " "
+       },
+       {
+        "question": "HOw many keyword are there in javascript to declare variables or constants?",
+        "choice1":"one",
+        "choice2": "Four",
+        "choice3": " Three",
+        "choice4": "Two",
+        "answer": " 3"
+       },
+       {
+        "question": "What keyword is used to define a javascript function?",
+        "choice1":"module",
+        "choice2": "function",
+        "choice3": "import ",
+        "choice4": "fun",
+        "answer": " 2"
+       }
+       
+]

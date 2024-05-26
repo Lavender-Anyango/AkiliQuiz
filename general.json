@@ -1,0 +1,72 @@
+[
+    {
+        "question": "Who of the following is the author of the 48 Laws of power?",
+        "choice1": "Sun Tzi",
+        "choice2": " Dan Brown",
+        "choice3": " Sidney Sheldon",
+        "choice4": "Robert Green",
+        "answer": "4",
+        "category": "flowers"
+      },
+      {
+        "question": "Which of the following is not a tool used by a UI designer",
+        "choice1": "Photoshop",
+        "choice2": " Adobe Illustrator",
+        "choice3": " Capcut",
+        "choice4": "Figma",
+        "answer": "3"
+    
+      },
+      {
+        "question": "Who is the president of Uganda ?",
+        "choice1": "Yoweri Kaguta Museveni",
+        "choice2": "Mwai Kibaki",
+        "choice3": "Byesije Kyajulanyi",
+        "choice4": "Allan Ssewanyana",
+        "answer": "1"
+    
+      },
+      {
+        "question": "What is the source of river Nile?",
+        "choice1": "Lake Turkana",
+        "choice2": "Lake Kyoga",
+        "choice3": "Lake Victoria",
+        "choice4": "Lake Albert",
+        "answer": "3"
+        
+      },
+    
+      {
+        "question": "What is the capital city of Tanzania",
+        "choice1":"Dodoma",
+        "choice2": " Arusha",
+        "choice3": " Nairobi",
+        "choice4": "Dar es Salaam",
+        "answer": " 1"
+       },
+       {
+        "question": "What does a boarometer measure?",
+        "choice1":"Humidity",
+        "choice2": "Temperature",
+        "choice3": " Atomspheric peressure",
+        "choice4": "Light",
+        "answer": " 3"
+       },
+       {
+        "question": "How many teeth does a human being have?",
+        "choice1":"30",
+        "choice2": "28",
+        "choice3": " 32",
+        "choice4": "29",
+        "answer": " 3"
+       },
+       {
+        "question": "What does Nasa stand for?",
+        "choice1":"North America Satelite Association",
+        "choice2": "National Aeronautics and Space Administration",
+        "choice3": "National Association of Space Astronauts ",
+        "choice4": "National American Space Association",
+        "answer": " 2"
+       }
+      
+]
